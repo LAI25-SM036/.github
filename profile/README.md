@@ -70,6 +70,7 @@ Berikut adalah langkah-langkah untuk menggunakan fitur EduCare:
 <p align="center">
   <img src="img/layanan.png" alt="Halaman Layanan" width="600">
 </p>
+
 - Pilih fitur yang diinginkan, seperti **Proyeksi Performa Akademik**.
 <p align="center">
   <img src="img/proyeksi.png" alt="Proyeksi Performa Akademik" width="600">
