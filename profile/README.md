@@ -1,7 +1,7 @@
 # EduCare: Solusi Cerdas untuk Pengelolaan Data Siswa yang Lebih Cepat dan Tepat
 
 <p align="center">
-  <img src="img/banner.png" alt="Banner Educare" width="600">
+  <img src="img/logo.png" alt="Logo Educare" width="600">
 </p>
 
 ## Tentang EduCare
